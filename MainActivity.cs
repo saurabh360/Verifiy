@@ -27,6 +27,7 @@ namespace AndroidApplica
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+			//Thi  is my app
 		}
 	}
 }
